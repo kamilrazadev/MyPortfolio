@@ -19,7 +19,7 @@ function App() {
     <h1 className={`${section_heading}`}>
       section heading
     </h1>
-    <h2 className={`${heading_lg}`}>
+    <h2 className={`${heading_lg} font-black`}>
       Heading Large
     </h2>
     <h2 className={`${heading_md}`}>
