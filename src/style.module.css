@@ -44,7 +44,7 @@
     justify-content: center;
     align-items: center;
 
-    padding: 14px 17px;
+    padding: 16px 17px;
     text-transform: uppercase;
     border: none;
     letter-spacing: 1.5px;
@@ -61,11 +61,11 @@
 
 .colored_btn {
     cursor: pointer;
-    /* display: flex; */
+    display: flex;
     justify-content: center;
     align-items: center;
 
-    padding: 14px 17px;
+    padding: 16px 17px;
     text-transform: uppercase;
     border: none;
     letter-spacing: 1.5px;
